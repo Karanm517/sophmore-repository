@@ -1,5 +1,16 @@
-body 
-{ 
-  background-color: blue
-     }
-      
+body {
+
+  background-color: blue;
+  text-align: middle; 
+}
+
+
+h1 {
+    font-family: sans-serif;
+    color: aqua
+}
+
+
+h2 {
+font-family: sans-serif;
+}
