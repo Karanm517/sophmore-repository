@@ -1,14 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
+
 }
 
 head {
-    background: #333;
+    background: darkgreen;
     color: #fff;
-    padding: 10px 0;
+   
     text-align: center;
 }
 
@@ -16,11 +14,11 @@ head {
 }
 
 h2 {
-    color: #333;
+    color: white;
 }
 
 article {
-    margin-bottom: 20px;
+  
 }
 
 
