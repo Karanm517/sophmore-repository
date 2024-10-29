@@ -1,17 +1,42 @@
 body {
 
-  background-color: blue;
-  text-align: middle; 
+  background-color: rgba(214, 147, 65, 0.43);
+  text-align: right;
 }
 
-
+/* title style */
 h1 {
     font-family: sans-serif;
-    color: black;
-    text-align: middle; 
+    color: aqua
 }
 
-
+/* subtitle style */
 h2 {
 font-family: sans-serif;
+}
+
+div
+img {
+  float: left;
+  width: 100px;
+  margin: 10px;
+  border-color: saddlebrown;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  float: right
+  height: 10px;
+  width: 10%;
+  
+  
+}
+
+/* paragraph style */
+p {
+    text-align: right;
+    font-family: fantasy;
+    font-size: 14px;
+  background-color: rgba(195, 33, 83, 0.76)
+    width: 50px;
+   
 }
